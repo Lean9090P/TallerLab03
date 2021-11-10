@@ -1,0 +1,25 @@
+
+
+Lista de clases:
+
+-Empresa:
+nombre comercial
+direccion
+
+-Sucursal:
+codigo sucursal
+region asociada
+
+-Camion:
+codigo camion
+patente
+descripcion
+estado
+
+-Flete:
+codigo de flete
+descripcion
+
+-Producto:
+codigo producto
+tipo de producto
